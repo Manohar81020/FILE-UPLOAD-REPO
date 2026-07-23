@@ -1530,7 +1530,7 @@ if __name__ == "__main__":
     "-p", "20335",
     "--set", "block_global=false",
     "--web-host", "0.0.0.0",
-    "--web-password", "test"
+    "--set", "web_password=test"
 ]
     
     try:
