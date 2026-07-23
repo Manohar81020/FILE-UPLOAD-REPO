@@ -1,0 +1,6 @@
+Flask
+requests
+mitmproxy
+pytz
+python-dotenv
+Flask-Session
